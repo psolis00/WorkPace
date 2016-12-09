@@ -1,0 +1,28 @@
+{
+    "author": "psolis00@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "work-pace",
+    "pebble": {
+        "displayName": "Work Pace",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "7c3cbf1a-2269-463f-ac4a-7daaf96f4aaa",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
